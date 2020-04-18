@@ -7,4 +7,3 @@ var str = "Hello, playground"
 // constant
 let a = str
 
-
